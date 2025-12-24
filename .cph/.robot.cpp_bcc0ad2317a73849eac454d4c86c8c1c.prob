@@ -1,0 +1,1 @@
+{"name":"Local: robot","url":"c:\\Users\\Admin\\Documents\\marisaoj\\robot.cpp","tests":[{"id":1745336186609,"input":"2 2 2\n0 0\n1 0\n0 1\n1 1","output":"UL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Documents\\marisaoj\\robot.cpp","group":"local","local":true}

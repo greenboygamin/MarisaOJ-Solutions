@@ -1,0 +1,1 @@
+{"name":"Local: NPLUS","url":"c:\\Users\\Admin\\Documents\\marisaoj\\NPLUS.cpp","tests":[{"id":1763218726781,"input":"2 3","output":"4\r\nB+=B\r\nB+=A\r\nA+=A\r\nA+=A\r\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Documents\\marisaoj\\NPLUS.cpp","group":"local","local":true}

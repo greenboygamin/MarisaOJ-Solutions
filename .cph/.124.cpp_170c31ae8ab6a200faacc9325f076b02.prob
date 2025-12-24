@@ -1,0 +1,1 @@
+{"name":"Local: 124","url":"c:\\Users\\Admin\\Documents\\marisaoj\\124.cpp","tests":[{"id":1739810037362,"input":"7\n2 3\n3 4\n4 5\n0 1\n3 1\n4 2\n1 5","output":"1.414214"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Documents\\marisaoj\\124.cpp","group":"local","local":true}

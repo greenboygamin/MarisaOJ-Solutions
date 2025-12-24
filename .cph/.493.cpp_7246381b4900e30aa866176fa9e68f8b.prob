@@ -1,0 +1,1 @@
+{"name":"Local: 493","url":"c:\\Users\\Admin\\Documents\\marisaoj\\493.cpp","tests":[{"id":1745070767807,"input":"0?10?0011?0\n00001101111","output":"5"},{"id":1745070992664,"input":"0?0???10??11??0\n101000011011010","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Documents\\marisaoj\\493.cpp","group":"local","local":true}
